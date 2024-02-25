@@ -76,7 +76,7 @@ font-style: normal;}
   align-items: center;
 }*/
 
-@media (max-width: 1000px) {
+@media (max-width: 2500px) {
   .borderbar{
 
     border: #fff solid 8px;
